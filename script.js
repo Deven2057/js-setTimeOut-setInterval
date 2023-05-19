@@ -14,3 +14,9 @@ if(b=="n"){
   clearTimeout(a)
 }
 
+// set INterval
+// const sum =(a,b,c) =>{
+//   console.log("yes i am running.. "+ (a+b+c))
+// }
+// setInterval(sum, 2000,1,1,1)
+
